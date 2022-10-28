@@ -79,3 +79,5 @@
 # print(a[::-1])
 
 
+str="I am Krishna"
+print(str.replace("Krishna","kana"))

@@ -6,7 +6,7 @@
 # print("Bye")
 
 
-#multiple exception
+# multiple exception
 
 # try:
 #     print(x)
@@ -48,3 +48,10 @@
 #     raise MyEx("Some went wrong Krishna")
 # else:
 #     print("greate")
+# def foo():
+#     try: 
+#         print(1) 
+#     finally: 
+#         print(2) 
+
+# foo()
